@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Modem's GitHub stats](https://github-readme-stats.vercel.app/api?username=modem56k&show_icons=true&theme=radical)
